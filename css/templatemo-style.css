@@ -820,4 +820,9 @@ p {
   .tm-contact-text {
     padding: 60px;
   }
+
+  .tm-brand-img {
+    float: left;
+  }
+  
 }
